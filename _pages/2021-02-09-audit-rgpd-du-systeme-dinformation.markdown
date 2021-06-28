@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Audit RGPD du système d’information
 date: '2021-02-09 17:31:00'
 tags:

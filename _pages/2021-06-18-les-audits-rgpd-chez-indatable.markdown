@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Les audits RGPD chez Indatable
 date: '2021-06-18 06:25:44'
 tags:

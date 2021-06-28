@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Assistance contrôle CNIL
 date: '2021-03-04 15:28:28'
 tags:

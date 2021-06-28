@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Offre cybersécurité pour les sites e-commerce
 date: '2019-09-05 10:09:57'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Cartographie RGPD des traitements
 date: '2021-02-10 15:02:00'
 tags:

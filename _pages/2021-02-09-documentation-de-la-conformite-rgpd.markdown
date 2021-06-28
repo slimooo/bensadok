@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Documentation de la conformité RGPD
 date: '2021-02-09 10:37:00'
 tags:

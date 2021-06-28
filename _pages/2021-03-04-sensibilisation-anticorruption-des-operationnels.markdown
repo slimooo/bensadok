@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sensibilisation anticorruption des opérationnels
 date: '2021-03-04 16:09:13'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Analyse de risques AIPD / PIA
 date: '2021-02-14 18:06:31'
 tags:

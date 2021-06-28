@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Notre offre cybersécurité
 date: '2021-03-04 22:13:45'
 tags:

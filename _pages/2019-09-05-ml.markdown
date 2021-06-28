@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mentions légales
 date: '2019-09-05 16:46:44'
 ---

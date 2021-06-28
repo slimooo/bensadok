@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Cartographie des risques de corruption
 date: '2021-03-04 15:55:30'
 tags:

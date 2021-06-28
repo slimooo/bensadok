@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Externalisation de la gestion des demandes RGPD
 date: '2021-02-07 08:37:00'
 tags:

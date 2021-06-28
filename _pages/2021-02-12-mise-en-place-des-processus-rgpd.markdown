@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mise en place des processus RGPD
 date: '2021-02-12 11:37:00'
 tags:

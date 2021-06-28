@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mise en place d’un dispositif d’alerte anticorruption
 date: '2021-03-04 17:15:50'
 tags:

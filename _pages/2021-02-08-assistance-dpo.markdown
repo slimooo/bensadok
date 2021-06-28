@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Assistance DPO
 date: '2021-02-08 09:39:00'
 tags:

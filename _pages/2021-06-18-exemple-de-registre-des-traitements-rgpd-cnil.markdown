@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Exemple de registre des traitements RGPD / CNIL
 date: '2021-06-18 14:47:32'
 tags:

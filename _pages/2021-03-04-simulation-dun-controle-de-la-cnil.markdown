@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Simulation d’un contrôle de la CNIL
 date: '2021-03-04 15:42:03'
 tags:

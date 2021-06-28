@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Les tests d'intrusions chez Indatable
 date: '2021-06-17 18:38:28'
 tags:

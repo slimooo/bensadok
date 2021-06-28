@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Rédaction d’une PSSI
 date: '2021-03-04 13:57:50'
 tags:

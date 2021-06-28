@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Analyse cybersécurité de la sous-traitance
 date: '2020-10-07 12:32:00'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Un cabinet de conseil responsable
 date: '2021-06-02 16:55:28'
 tags:

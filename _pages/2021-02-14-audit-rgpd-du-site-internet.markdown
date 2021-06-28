@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Audit RGPD du site internet
 date: '2021-02-14 18:10:08'
 tags:

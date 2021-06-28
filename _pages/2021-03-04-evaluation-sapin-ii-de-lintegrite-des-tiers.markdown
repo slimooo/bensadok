@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Évaluation SAPIN II de l’intégrité des tiers
 date: '2021-03-04 16:17:41'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'État des lieux RGPD : juridique et organisationnel'
 date: '2021-02-08 15:17:00'
 tags:

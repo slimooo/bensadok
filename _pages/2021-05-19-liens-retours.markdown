@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Ils nous font confiance
 date: '2021-05-19 12:30:54'
 ---

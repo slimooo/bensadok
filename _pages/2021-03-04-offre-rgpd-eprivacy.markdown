@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Notre offre protection des données personnelles
 date: '2021-03-04 22:14:16'
 tags:

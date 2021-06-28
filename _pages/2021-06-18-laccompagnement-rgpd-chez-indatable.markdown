@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: L'accompagnement RGPD chez Indatable
 date: '2021-06-18 06:54:55'
 tags:

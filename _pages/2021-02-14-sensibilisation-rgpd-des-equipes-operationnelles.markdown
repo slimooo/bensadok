@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sensibilisation RGPD des équipes opérationnelles
 date: '2021-02-14 18:20:52'
 tags:

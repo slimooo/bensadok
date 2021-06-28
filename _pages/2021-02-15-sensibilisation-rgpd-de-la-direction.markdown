@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sensibilisation RGPD de la direction
 date: '2021-02-15 14:29:00'
 tags:

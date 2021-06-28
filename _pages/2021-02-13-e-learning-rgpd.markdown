@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: E-Learning RGPD
 date: '2021-02-13 13:32:00'
 tags:

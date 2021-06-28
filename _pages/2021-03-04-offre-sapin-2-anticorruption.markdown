@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Notre offre anticorruption
 date: '2021-03-04 22:13:27'
 tags:

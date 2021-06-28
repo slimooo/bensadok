@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Rédaction du code de conduite anticorruption
 date: '2021-03-04 16:29:27'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Offre cybersécurité pour les sites internet
 date: '2019-09-05 10:13:39'
 tags:

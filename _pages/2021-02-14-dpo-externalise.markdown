@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: DPO externalisé
 date: '2021-02-14 18:17:36'
 tags:
