@@ -42,11 +42,11 @@ layout: default
 
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
-              <img class="lazy" data-src="{{site.author.author__avatar}}" alt="{{page.author}}">
+              <img class="lazy" data-src="{{post.author.author__avatar}}" alt="{{post.author}}">
             </a>
 
             <div class="post__meta-bottom">
-              <a class="post__author" href="{{site.baseurl}}/about/">{{page.author}}</a>
+              <a class="post__author" href="{{site.baseurl}}/about/">{{post.author}}</a>
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
             </div>
           </div>
