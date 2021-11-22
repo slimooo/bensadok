@@ -1,22 +1,26 @@
 ---
 layout: post
-title:  You must be the change you wish to see in the world
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-11-06 15:01:35 +0300
-image:  '/images/05.jpg'
+title: You must be the change you wish to see in the world
+description: Leverage agile frameworks to provide a robust synopsis for high level
+  overviews. Iterative a...
+date: 2020-11-06T15:01:35.000+03:00
+image: "/images/05.jpg"
 video_embed: https://www.youtube.com/embed/gYO1uk7vIcc
-tags:   [workflow, hobby]
+tags:
+- workflow
+- hobby
+
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Andrew Wulf](https://unsplash.com/photos/Tc3c8ZDIbxw) diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-### Synergistically evolve
+### Modification evolve
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
 ![City]({{site.baseurl}}/images/05-1.jpg#wide)
-*Photo by [Andrew Wulf](https://unsplash.com/photos/Tc3c8ZDIbxw) on [Unsplash](https://unsplash.com/)*
+_Photo by_ [_Andrew Wulf_](https://unsplash.com/photos/Tc3c8ZDIbxw) _on_ [_Unsplash_](https://unsplash.com/)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -33,7 +37,7 @@ Phosfluorescently engage worldwide methodologies with web-enabled technology. In
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
 
 ![City]({{site.baseurl}}/images/05-2.jpg)
-*Photo by [Ken Cheung](https://unsplash.com/photos/10py7Mvmf1g) on [Unsplash](https://unsplash.com/)*
+_Photo by_ [_Ken Cheung_](https://unsplash.com/photos/10py7Mvmf1g) _on_ [_Unsplash_](https://unsplash.com/)
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 
