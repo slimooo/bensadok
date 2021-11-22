@@ -46,7 +46,7 @@ layout: default
             </a>
 
             <div class="post__meta-bottom">
-              a {{post.author}} b {{page.author}} c {{site.author}} d {{site.author.author__name}} e {{post.author.author__name}} f {{page.author.author__name}}
+              <a class="post__author" href="{{site.baseurl}}/about/">{{page.author}}</a>
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
             </div>
           </div>
