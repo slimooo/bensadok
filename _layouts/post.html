@@ -51,25 +51,6 @@ layout: default
             </div>
           </div>
 
-          <p>
-{% assign authorCount = page.authors | size %}
-{% if authorCount == 0 %}
-    No author
-{% elsif authorCount == 1 %}
-    {{ page.authors | first }}
-{% else %}
-    {% for author in page.authors %}
-        {% if forloop.first %}
-            {{page.author.author__avatar}} {{ author }}
-        {% elsif forloop.last %}
-            and  {{page.author.author__avatar}} {{ author }}
-        {% else %}
-            , {{page.author.author__avatar}} {{ author }}
-        {% endif %}
-    {% endfor %}
-{% endif %}
-</p>
-
         </div>
       </div>
     </div>
